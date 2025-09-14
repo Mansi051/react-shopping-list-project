@@ -11,7 +11,7 @@ body {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  background-color: peachpuff;
+  background-color: lightcoral;
 }
 .appWrapper {
   display: flex;
@@ -97,10 +97,10 @@ body {
   padding: 10px;
   border-radius: 5px;
   margin: 5px;
-  scale: 1.4;
 }
 .addBtn:hover {
   background-color: black;
   color: white;
   cursor: pointer;
+  scale: 1.2;
 }
